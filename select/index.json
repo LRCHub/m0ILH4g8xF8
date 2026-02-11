@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Destiny -太陽の花-",
+  "base_artist": "島谷ひとみ",
+  "createdAt": "2026-02-11T14:56:05.643130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Destiny",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_Destiny_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Destiny",
+      "artist": "Zero 7",
+      "has_synced": true,
+      "path": "select/02_Destiny_Zero_7.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Destiny - Photek Remix",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/03_Destiny_-_Photek_Remix_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Destiny (Photek Remix)",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/04_Destiny_(Photek_Remix)_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Destiny",
+      "artist": "Martin Solveig",
+      "has_synced": true,
+      "path": "select/05_Destiny_Martin_Solveig.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Destiny",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/06_Destiny_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Destiny (instrumental)",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/07_Destiny_(instrumental)_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Are My Destiny (Sung By f[Luna+Krystal])",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_You_Are_My_Destiny_(Sung_By_f[Luna+Krystal])_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You are my destiny (Luna+Krystal)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/09_You_are_my_destiny_(Luna+Krystal)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doom or Destiny",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/10_Doom_or_Destiny_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Manifest Destiny",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/11_Manifest_Destiny_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Date With Destiny",
+      "artist": "Nightmares On Wax",
+      "has_synced": true,
+      "path": "select/12_Date_With_Destiny_Nightmares_On_Wax.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chains Of Destiny",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/13_Chains_Of_Destiny_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Meu Destino - My Destiny",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/14_Meu_Destino_-_My_Destiny_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Faithful to Destiny",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/15_Faithful_to_Destiny_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Manifest Destiny",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/16_Manifest_Destiny_Jamiroquai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Destiny-太陽の花-",
+      "artist": "島谷 ひとみ",
+      "has_synced": false,
+      "path": "select/pl_01_Destiny-太陽の花-_島谷_ひとみ.txt"
+    }
+  ]
+}
